@@ -95,6 +95,4 @@ Feature importance analysis highlighted the most influential academic and skill-
 Dataset sourced from **Kaggle**.
 Special thanks to the open-source ML community for continuous learning resources.
 
----
 
-Would you like me to include a **“How to Run the Project”** section (installation + execution steps) for better usability on GitHub?
